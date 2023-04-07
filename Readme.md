@@ -12,3 +12,5 @@
 - HTML
 - CSS
 - JavaScript
+
+[Deployed-link](https://myisro.netlify.app/)
